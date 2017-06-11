@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\WMLong\Documents\Training\Stormrunner Training\Scripts\TruClient\Links2
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\users\wmlong\documents\training\stormrunner training\scripts\truclient\links2\\logfile.log
+c:\users\wmlong\documents\training\stormrunner training\scripts\truclient\links2\\combined_Links2.c
+c:\users\wmlong\documents\training\stormrunner training\scripts\truclient\links2\\pre_cci.c
